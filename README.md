@@ -1,10 +1,10 @@
 # Cinema Management
 
-+ Descriptions: Create a Cinema Management system for employees to sell tickets and products.
-+ Technologies: 
++ Description: Create a Cinema Management system for employees to sell tickets and products.
++ Technology: 
   - FrontEnd with Java Swing
   - BackEnd with Java, Oracle 19C.
-+ Responsibilities:
++ Responsibility:
   - Build the controller and model of an order ticket, selling the product.
   - Build a model for the controller of the management system for employees.
   - Build login, logout, authenticate admin or user.
